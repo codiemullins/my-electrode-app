@@ -42,6 +42,7 @@
     "my-electrode-component": "^1.0.0"
   },
   "devDependencies": {
+    "babel-preset-electrode-react": "^1.0.0",
     "electrode-archetype-react-app-dev": "^1.0.0",
     "gulp": "^3.9.1"
   }
