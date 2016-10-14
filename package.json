@@ -25,7 +25,7 @@
     "node": "6.3.x"
   },
   "scripts": {
-    "start": "gulp start",
+    "start": "gulp server",
     "test": "gulp test",
     "coverage": "gulp check",
     "heroku-postbuild": "gulp build"
