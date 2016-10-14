@@ -20,6 +20,9 @@
           }
         }
       }
+    },
+    "friends": {
+      "module": "./server/plugins/friends"
     }
   }
 }
